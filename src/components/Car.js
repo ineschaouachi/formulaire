@@ -1,5 +1,5 @@
 import React from 'react'
-import car from '../../images/car.png'
+import car from '../images/car.png'
 
 const Car = () => {
   return (
